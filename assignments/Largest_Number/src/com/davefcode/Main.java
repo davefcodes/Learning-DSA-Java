@@ -13,11 +13,8 @@ public class Main {
         System.out.println("Enter second number: ");
         int num2 = input.nextInt();
 
-        if (num1 > num2){
-            System.out.println("The largest number is " + num1);
-        }
-        else {
-            System.out.println("The largest number is " + num2);
-        }
+        int largestNum = Math.max(num1, num2);
+
+        System.out.println("The largest number is: " + largestNum);
     }
 }
