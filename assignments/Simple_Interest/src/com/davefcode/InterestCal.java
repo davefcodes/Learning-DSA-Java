@@ -3,7 +3,7 @@ package com.davefcode;
 import java.util.Scanner;
 // Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
 
-public class Main {
+public class InterestCal {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
