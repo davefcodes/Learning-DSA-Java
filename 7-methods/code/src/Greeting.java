@@ -5,10 +5,11 @@ import static java.lang.System.in;
 public class Greeting {
     public static void main(String[] args) {
         greeting();
+        name();
 
     }
     static void greeting(){
-        System.out.println("Hello EnyoBaby, come let me put this thing on you");
+        System.out.println("Hello there");
     }
 
     static void name(){
@@ -20,4 +21,3 @@ public class Greeting {
 }
 
 
-//Programming Language -> Byte code -> JVM(Java Virtual Machine ) -> Machine code[0,1] -> Output
