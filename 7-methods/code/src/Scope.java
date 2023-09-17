@@ -19,7 +19,7 @@ public class Scope {
         System.out.println(a);
 
         // scooping in for loops
-        for(int i = 1; i < 10; i++ ){
+        for(int i = 1; i < 11; i++ ){
             System.out.println(i);
 
             a = 10_000; // ref variable can be updated in this block

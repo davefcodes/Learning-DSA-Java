@@ -1,10 +1,12 @@
 public class PassingExample {
     public static void main(String[] args){
-        String name = "Iron Man";
-        greet(name );
+        String fullName = "Iron Man";
+        greet(fullName);
     }
 
-    static void greet(String naam){
-        System.out.println(naam);
+    static void greet(String name){
+        System.out.println(name);
+
+
     }
 }

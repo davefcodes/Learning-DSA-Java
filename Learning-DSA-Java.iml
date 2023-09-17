@@ -15,6 +15,9 @@
       <sourceFolder url="file://$MODULE_DIR$/assignments/Largest_Number/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/assignments/Simple_Interest/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/first-java-program/first-idea-program/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/object-oriented-programming/1-OOP-introduction-concepts/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/first-java-program/second-idea-program/src" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
